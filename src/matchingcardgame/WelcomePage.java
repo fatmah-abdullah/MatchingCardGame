@@ -1,5 +1,5 @@
 
-package matching_cards;
+package matchingcardgame;
 
 import java.awt.Color;
 import java.awt.FlowLayout;
@@ -91,3 +91,4 @@ public class WelcomePage extends JFrame{
     }
     
 }
+
